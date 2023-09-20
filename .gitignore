@@ -25,3 +25,6 @@ replay_pid*
 
 # Idea Folder
 .idea/**
+
+# Target
+target/**
